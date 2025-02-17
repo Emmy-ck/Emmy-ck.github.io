@@ -392,7 +392,7 @@
                 </a>
                 <!-- github link -->
                 <a
-                  href="https://github.com/AllanKirui"
+                  href="#"
                   title="View project repo"
                   target="_blank"
                 >
